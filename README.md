@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/designer-dard/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Designer Dard](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/designer-dard/) |
+| **Get License** | [Commercial Licensing for Designer Dard](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/designer-dard/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `e147abf619b741256f995b7e4f7937ed3fed471b1760038a9841f58abc51ca99` |
 | **Timestamp** | May 19, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
