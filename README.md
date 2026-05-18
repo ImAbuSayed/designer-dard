@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/designer-dard/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Designer Dard](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/designer-dard/) |
+| **Get License** | [Request Licensing for Designer Dard](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/designer-dard/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Akhaan ch nasha tera taking my mind kudiye,
+> Tere jahi sohni koi hard to find kudiye,
+> Lafzaan ch uljhe mere dil de sawaal,
+> Takda main tainu keeping you close.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
